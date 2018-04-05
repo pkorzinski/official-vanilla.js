@@ -1,0 +1,6 @@
+**/*.json
+.eslintignore
+.eslintrc*
+dist
+docs
+node_modules
